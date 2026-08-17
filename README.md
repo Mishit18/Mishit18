@@ -33,7 +33,7 @@ report. Simulated and real datasets are labeled explicitly.
 
 | Project | Data status and evidence |
 |---|---|
-| [BTC Adaptive Grid Research](https://github.com/Mishit18/btc-adaptive-grid-research) | 40,536 real Binance hourly candles; chronological holdout; paper/Testnet workflow; negative return reported honestly |
+| [BTC Adaptive Grid Research](https://github.com/Mishit18/btc-adaptive-grid-research) | Live Binance WebSocket paper engine, persistent state, bid/ask fills, and 40,536-candle holdout evidence |
 | [OpenBB Macro Portfolio Research](https://github.com/Mishit18/openbb-macro-portfolio-research) | 16,919 real records across seven ETFs; monthly walk-forward optimization, costs, bootstrap intervals, and dashboard |
 | [Factor Modeling](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/02_quant_research/01_factor_modeling_pca_eigenportfolios) | Adjusted prices for 49 real US equities; PCA and classical-factor diagnostics |
 | [Regime-Aware State-Space Research](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/01_universal_foundations/03_kalman_filter_hmm_regimes) | Real SPY/QQQ/TLT prices; Kalman state estimation, Gaussian HMM regimes, turnover costs, and honest passive-benchmark limits |
