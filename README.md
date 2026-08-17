@@ -35,6 +35,7 @@ report. Simulated and real datasets are labeled explicitly.
 |---|---|
 | [BTC Adaptive Grid Research](https://github.com/Mishit18/btc-adaptive-grid-research) | 40,536 real Binance hourly candles; chronological holdout; paper/Testnet workflow; negative return reported honestly |
 | [Factor Modeling](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/02_quant_research/01_factor_modeling_pca_eigenportfolios) | Adjusted prices for 49 real US equities; PCA and classical-factor diagnostics |
+| [Regime-Aware State-Space Research](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/01_universal_foundations/03_kalman_filter_hmm_regimes) | Real SPY/QQQ/TLT prices; Kalman state estimation, Gaussian HMM regimes, turnover costs, and honest passive-benchmark limits |
 | [Cointegration Pairs](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/02_quant_research/02_cointegration_stat_arb_kalman_spreads) | Nine real US ETFs; Johansen, Kalman, HMM, cost-aware backtests |
 | [Market Making](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/03_quant_trading/02_avellaneda_stoikov_market_making) | Simulated LOB; HJB-derived quotes, Monte Carlo stress tests, PnL attribution |
 | [HFT Signal Research](https://github.com/Mishit18/QUANT-PROJECTS/tree/main/03_quant_trading/01_hft_microstructure_alpha_signals) | Synthetic 100K-event LOB; executable-edge and transaction-cost diagnostics |
